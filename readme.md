@@ -8,7 +8,7 @@ My name is Tomi Peltonen and I do Continuous Delivery & DevOps
 
 - Praqma - Continuous Delivery & DevOps Consultant `2018-08-01 ->`
   - Volvo IT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 ->`
-  - MyNumbers - Coaching, Azure DevOps `2019-02-11 -> 2019-05-31`
+  - MyNumbers - Coaching, Azure DevOps `2019-02-11 -> 2019-05-02`
   - Gotit - Coaching, Integration Jira and Tfs using Tfs4Jira and Scriptrunner. `2018-10-23 -> 2018-11-28`
   - Evry - Coaching and handover `2018-08-08 -> 2018-08-28`
 
