@@ -1,6 +1,8 @@
 # My Portfolio
 
-My name is Tomi Peltonen and I do Continuous Delivery & DevOps
+My name is Tomi Peltonen and I do Continuous Delivery & DevOps.
+
+Through my years as an IT consultant and my experiences as a Developer, Configuration Manager, Continuous Integration/Delivery and DevOps specialist, I have learned the importance of delivering value and being able to release software frequently, efficiently and with traceability. I have come to appreciate the stability and reliability of releases that is achieved by fully automated CI/CD pipelines. This also gives the freedom to continuously change and improve the process.
 
 ## This is my work
 
@@ -26,3 +28,15 @@ My name is Tomi Peltonen and I do Continuous Delivery & DevOps
   - C++
   - C#
   - TFS
+
+## _What is DevOps?_
+
+_DevOps is the union of people, process, and products to enable continuous delivery of value to our end users._
+
+_I am very deliberate in the terms used in this definition. I choose value over software.  DevOps is not just automating a pipeline so we can quickly deliver software. Our goal is to deliver value.  The term end users was also very carefully chosen.  The value we produce must reach our end users.  If the value only reaches the Dev and QA environments but is held up before reaching production where it can be realized by our end users, we are still failing._
+
+_It is very important to realize that DevOps is not a product.  You cannot buy DevOps and install it.  DevOps is not just automation or infrastructure as code.  DevOps is people following a process enabled by products to deliver value to our end users._
+
+
+_Donovan Brown_
+
