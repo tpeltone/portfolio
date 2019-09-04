@@ -6,10 +6,10 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 
 ## This is my work
 
-- Next Challenge X
+- Volco Construction Equipment - Continuous Integration Engineer `2019-09-01`
 
-- Praqma - Continuous Delivery & DevOps Consultant `2018-08-01 ->`
-  - Volvo IT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 ->`
+- Praqma - Continuous Delivery & DevOps Consultant `2018-08-01 -> 2019-08-31`
+  - Volvo GTT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 ->`
   - MyNumbers - Coaching, Azure DevOps `2019-02-11 -> 2019-05-02`
   - Gotit - Coaching, Integration Jira and Tfs using Tfs4Jira and Scriptrunner. `2018-10-23 -> 2018-11-28`
   - Evry - Coaching and handover `2018-08-08 -> 2018-08-28`
