@@ -7,6 +7,12 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 ## This is my work
 
 - Volco Construction Equipment - Continuous Integration Engineer `2019-09-01`
+  - Azure
+  - Jenkins
+  - Terraform
+  - Gradle
+  - Office 365 (Digital Champion)
+  - Git
 
 - Praqma - Continuous Delivery & DevOps Consultant `2018-08-01 -> 2019-08-31`
   - Volvo GTT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 ->`
