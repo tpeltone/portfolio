@@ -1,15 +1,15 @@
 # My Portfolio
 
-My name is Tomi Peltonen and I do Continuous Delivery & DevOps.
+My name is `Tomi Peltonen` and I do CI/CD & DevOps.
 
 Through my years as an IT consultant and my experiences as a Developer, Configuration Manager, Continuous Integration/Delivery and DevOps specialist, I have learned the importance of delivering value and being able to release software frequently, efficiently and with traceability. I have come to appreciate the stability and reliability of releases that is achieved by fully automated CI/CD pipelines. This also gives the freedom to continuously change and improve the process.
 
 ## This is my work
 
-- Volco Construction Equipment - AE & Core Technologies Electrics and Electronics Platform - Continuous Integration Engineer `2019-09-01`
-  - Continuous integrations pipelines for Android AOSP builds for DCM (Zippleback project) - GECU  
-  - Continuous integrations pipelines for Machine Platofrm builds for DCM (Zippleback project) - NECU
-  - Infrastrucutre as Code for 
+- `Volco Construction Equipment - AE & Core Technologies Electrics and Electronics Platform - Continuous Integration Engineer` `2019-09-01 ->`
+  - Continuous integrations pipelines for Android AOSP builds for DCM (Zippleback project)  
+  - Continuous integrations pipelines for Machine Platform builds for DCM (Zippleback project)
+  - Infrastrucutre as Code
   - Azure Cloud
   - Azure DevOps
   - Gerrit
@@ -21,7 +21,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
   - Git
 
 - Praqma - Continuous Delivery & DevOps Consultant `2018-08-01 -> 2019-08-31`
-  - Volvo GTT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 ->`
+  - Volvo GTT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 -> 2019-08-31`
   - MyNumbers - Coaching, Azure DevOps `2019-02-11 -> 2019-05-02`
   - Gotit - Coaching, Integration Jira and Tfs using Tfs4Jira and Scriptrunner. `2018-10-23 -> 2018-11-28`
   - Evry - Coaching and handover `2018-08-08 -> 2018-08-28`
@@ -49,6 +49,4 @@ _I am very deliberate in the terms used in this definition. I choose value over 
 
 _It is very important to realize that DevOps is not a product.  You cannot buy DevOps and install it.  DevOps is not just automation or infrastructure as code.  DevOps is people following a process enabled by products to deliver value to our end users._
 
-
 _Donovan Brown_
-
