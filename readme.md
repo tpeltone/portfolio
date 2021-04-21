@@ -6,9 +6,15 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 
 ## This is my work
 
-- Volco Construction Equipment - Continuous Integration Engineer `2019-09-01`
-  - Azure
+- Volco Construction Equipment - AE & Core Technologies Electrics and Electronics Platform - Continuous Integration Engineer `2019-09-01`
+  - Continuous integrations pipelines for Android AOSP builds for DCM (Zippleback project) - GECU  
+  - Continuous integrations pipelines for Machine Platofrm builds for DCM (Zippleback project) - NECU
+  - Infrastrucutre as Code for 
+  - Azure Cloud
+  - Azure DevOps
+  - Gerrit
   - Jenkins
+  - Ansible
   - Terraform
   - Gradle
   - Office 365 (Digital Champion)
