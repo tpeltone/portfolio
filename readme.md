@@ -39,7 +39,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 - C++
 - C#
 - TFS
-- Source Safe
+- Visual SourceSafe
 
 **SYSteam - Developer** `2001-05-21 -> 2010-12-31`
 
@@ -47,7 +47,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 - C++
 - C#
 - TFS
-- Source Safe
+- Visual SourceSafe
 
 ## _What is DevOps?_
 
