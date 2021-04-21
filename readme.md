@@ -6,40 +6,42 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 
 ## This is my work
 
-- `Volco Construction Equipment - AE & Core Technologies Electrics and Electronics Platform - Continuous Integration Engineer` `2019-09-01 ->`
-  - Continuous integrations pipelines for Android AOSP builds for DCM (Zippleback project)  
-  - Continuous integrations pipelines for Machine Platform builds for DCM (Zippleback project)
-  - Infrastrucutre as Code
-  - Azure Cloud
-  - Azure DevOps
-  - Gerrit
-  - Jenkins
-  - Ansible
-  - Terraform
-  - Gradle
-  - Office 365 (Digital Champion)
-  - Git
+**Volco Construction Equipment - AE & Core Technologies Electrics and Electronics Platform - Continuous Integration Engineer** `2019-09-01 ->`
+- Continuous integrations pipelines for Android AOSP builds for DCM (Zippleback project)  
+- Continuous integrations pipelines for Machine Platform builds for DCM (Zippleback project)
+- Infrastrucutre as Code
+- Azure Cloud
+- Azure DevOps
+- Gerrit
+- Jenkins
+- Ansible
+- Terraform
+- Gradle
+- Office 365 (Digital Champion)
+- Git
 
-- Praqma - Continuous Delivery & DevOps Consultant `2018-08-01 -> 2019-08-31`
-  - Volvo GTT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 -> 2019-08-31`
-  - MyNumbers - Coaching, Azure DevOps `2019-02-11 -> 2019-05-02`
-  - Gotit - Coaching, Integration Jira and Tfs using Tfs4Jira and Scriptrunner. `2018-10-23 -> 2018-11-28`
-  - Evry - Coaching and handover `2018-08-08 -> 2018-08-28`
+**Praqma - Continuous Delivery & DevOps Consultant** `2018-08-01 -> 2019-08-31`
+- Volvo GTT - Coaching, Azure,  Azure DevOps, Jenkins `2019-01-28 -> 2019-08-31`
+- MyNumbers - Coaching, Azure DevOps `2019-02-11 -> 2019-05-02`
+- Gotit - Coaching, Integration Jira and Tfs using Tfs4Jira and Scriptrunner. `2018-10-23 -> 2018-11-28`
+- Evry - Coaching and handover `2018-08-08 -> 2018-08-28`
 
-- EVRY - Software Configuration Manager, Build Enginer `2012-03-01 -> 2018-07-31`
-  - TFS
+**EVRY - Software Configuration Manager, Build Enginer** `2012-03-01 -> 2018-07-31`
+- TFS
 
-- EDB Ergo Group Systeam Developer, Build Enginer `2011-01-01 -> 2012-02-28`
-  - Easel
-  - C++
-  - C#
-  - TFS
+**EDB Ergo Group Systeam Developer, Build Enginer** `2011-01-01 -> 2012-02-28`
+- Easel
+- C++
+- C#
+- TFS
+- Source Safe
 
-- SYSteam - Developer `2001-05-21 -> 2010-12-31`
-  - Easel
-  - C++
-  - C#
-  - TFS
+**SYSteam - Developer** `2001-05-21 -> 2010-12-31`
+- Easel
+- C++
+- C#
+- TFS
+- Source Safe
 
 ## _What is DevOps?_
 
