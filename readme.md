@@ -6,7 +6,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 
 ## This is my work
 
-**Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle - Continuous Integration Engineer** `2021-06-01 ->`
+**Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle, Subject Matter Expert - Continuous Integration Engineer** `2021-06-01 ->`
 - Continuous Integration/Deployment
 - DevOps Culture
 - Ifrastructure as Code
