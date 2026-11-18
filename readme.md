@@ -2,7 +2,7 @@
 
 My name is [Tomi Peltonen](https://www.linkedin.com/in/tomipeltonen/)` and I am a Digital Product Manager. Formerly CI/CD & DevSecOps specialist.
 
-Through my years as an IT consultant and my experiences as a Developer, Configuration Manager, Continuous Integration/Delivery and DevSecOps specialist, I have learned the importance of delivering value and being able to release software frequently, efficiently and with traceability. I have come to appreciate the stability and reliability of releases that is achieved by fully automated CI/CD pipelines. This also gives the freedom to continuously change and improve the process. 
+My background as an IT consultant, Developer, Configuration Manager, and CI/CD and DevSecOps specialist has given me first-hand experience of the challenges developers face when delivering software. As DPM for Software Development Solutions at VCE, I now use that experience to bridge business needs and technology, define direction and priorities, and enable development teams with capabilities that make software development faster, safer and easier. I strongly believe in automation, standardization and continuous improvement as key enablers for sustainable software development. I am naturally curious about emerging technology and an early adopter of AI. I enjoy experimenting, learning by doing and exploring how AI can create meaningful value for developers, teams and the wider organization.
 
 ## This is my work
 
@@ -13,6 +13,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 - I prioritize investments and capabilities that help VCE developers build software faster, safer and in a more standardized way.
 - I align Technology, CALMS, DTO, architects and other stakeholders around those priorities and ensure delivery creates measurable value.
 - I am accountable for the business value and health of my digital-product portfolio, while the technical teams determine and implement the best technical solutions.
+- I am an early adopter of AI
 
 **Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle, Digital Product Manager/Digital Product Owner - Software Development Solutions** `2023-09-01 - 2026-09-30>`
 
@@ -21,6 +22,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 - I prioritize investments and capabilities that help VCE developers build software faster, safer and in a more standardized way.
 - I align Technology, CALMS, DTO, architects and other stakeholders around those priorities and ensure delivery creates measurable value.
 - I am accountable for the business value and health of my digital-product portfolio, while the technical teams determine and implement the best technical solutions.
+- I am an early adopter of AI
 
 **Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle, Subject Matter Expert - DevOps & Continuous Integration Engineer** `2021-06-01 -> 2023-09-01`
 
