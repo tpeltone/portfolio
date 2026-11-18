@@ -1,12 +1,29 @@
 # My Portfolio
 
-My name is [Tomi Peltonen](https://www.linkedin.com/in/tomipeltonen/)` and I do CI/CD & DevOps.
+My name is [Tomi Peltonen](https://www.linkedin.com/in/tomipeltonen/)` and I am a Digital Product Manager. Formerly CI/CD & DevSecOps specialist.
 
-Through my years as an IT consultant and my experiences as a Developer, Configuration Manager, Continuous Integration/Delivery and DevOps specialist, I have learned the importance of delivering value and being able to release software frequently, efficiently and with traceability. I have come to appreciate the stability and reliability of releases that is achieved by fully automated CI/CD pipelines. This also gives the freedom to continuously change and improve the process.
+Through my years as an IT consultant and my experiences as a Developer, Configuration Manager, Continuous Integration/Delivery and DevSecOps specialist, I have learned the importance of delivering value and being able to release software frequently, efficiently and with traceability. I have come to appreciate the stability and reliability of releases that is achieved by fully automated CI/CD pipelines. This also gives the freedom to continuously change and improve the process. 
 
 ## This is my work
 
-**Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle, Subject Matter Expert - DevOps & Continuous Integration Engineer** `2021-06-01 ->`
+**Volco Construction Equipment - Digital, Product & Machine Life Cycle, Digital Product Manager/Digital Product Owner - Software Development Solutions** `2026-10-01 ->`
+
+- I represent the software-development needs of Volvo CE.
+- I define the vision, goals and roadmap for Software Development Solutions.
+- I prioritize investments and capabilities that help VCE developers build software faster, safer and in a more standardized way.
+- I align Technology, CALMS, DTO, architects and other stakeholders around those priorities and ensure delivery creates measurable value.
+- I am accountable for the business value and health of my digital-product portfolio, while the technical teams determine and implement the best technical solutions.
+
+**Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle, Digital Product Manager/Digital Product Owner - Software Development Solutions** `2023-09-01 - 2026-09-30>`
+
+- I represent the software-development needs of Volvo CE.
+- I define the vision, goals and roadmap for Software Development Solutions.
+- I prioritize investments and capabilities that help VCE developers build software faster, safer and in a more standardized way.
+- I align Technology, CALMS, DTO, architects and other stakeholders around those priorities and ensure delivery creates measurable value.
+- I am accountable for the business value and health of my digital-product portfolio, while the technical teams determine and implement the best technical solutions.
+
+**Volco Construction Equipment - Digital & IT, Product & Machine Life Cycle, Subject Matter Expert - DevOps & Continuous Integration Engineer** `2021-06-01 -> 2023-09-01`
+
 - Continuous Integration/Deployment
 - DevOps Culture
 - Ifrastructure as Code
@@ -18,7 +35,7 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 - Git
 - Gerrit
 - Gradle
-- Office 365 (Digital Champion)- 
+- Office 365 (Digital Champion)-
 
 **Volco Construction Equipment - AE & Core Technologies Electrics and Electronics Platform - Continuous Integration Engineer** `2019-09-01 -> 2021-05-31`
 
@@ -43,11 +60,11 @@ Through my years as an IT consultant and my experiences as a Developer, Configur
 - Gotit - Coaching, Integration Jira and Tfs using Tfs4Jira and Scriptrunner. `2018-10-23 -> 2018-11-28`
 - Evry - Coaching and handover `2018-08-08 -> 2018-08-28`
 
-**EVRY - Software Configuration Manager, Build Enginer** `2012-03-01 -> 2018-07-31`
+**EVRY - Software Configuration Manager, Build Engineer** `2012-03-01 -> 2018-07-31`
 
 - TFS
 
-**EDB Ergo Group Systeam Developer, Build Enginer** `2011-01-01 -> 2012-02-28`
+**EDB Ergo Group Systeam Developer, Build Engineer** `2011-01-01 -> 2012-02-28`
 
 - Easel
 - C++
