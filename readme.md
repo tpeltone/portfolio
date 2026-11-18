@@ -1,6 +1,6 @@
 # My Portfolio
 
-My name is [Tomi Peltonen](https://www.linkedin.com/in/tomipeltonen/)` and I am a Digital Product Manager. Formerly CI/CD & DevSecOps specialist.
+I’m [Tomi Peltonen](https://www.linkedin.com/in/tomipeltonen/), a Digital Product Manager with hands-on experience in software development, CI/CD and DevSecOps.
 
 My background as an IT consultant, Developer, Configuration Manager, and CI/CD and DevSecOps specialist has given me first-hand experience of the challenges developers face when delivering software. As DPM for Software Development Solutions at VCE, I now use that experience to bridge business needs and technology, define direction and priorities, and enable development teams with capabilities that make software development faster, safer and easier. I strongly believe in automation, standardization and continuous improvement as key enablers for sustainable software development. I am naturally curious about emerging technology and an early adopter of AI. I enjoy experimenting, learning by doing and exploring how AI can create meaningful value for developers, teams and the wider organization.
 
